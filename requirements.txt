@@ -5,3 +5,6 @@ pandas
 matplotlib
 timeit_decorator
 numba
+tqdm
+keras
+tensorflow
